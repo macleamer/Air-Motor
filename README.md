@@ -1,9 +1,11 @@
 # Air-Motor
 Modeled, machined, assembled, and tested an air motor up to 3600 rpm.
 
-First I used SolidWorks to modeling every piece of the air motor. Some reverse engineering and tolerance engineering took place considering what pin, set crews, and fasteners I had to work with/ordered. After modeling, I creating an exploded view animation (*1), and a motion study (*2) animation of the motor running using SolidWorks motors feature to display movement.
-Next, I created and toleranced drawings for each part of the motor to ASME Y14.5 standards and complied them into technical specifications for manufacturing (*3), a legally binding inspection basis.
-Following the engineering drawings, I manufactured numerous materials including aluminum, steel, and brass with a variety of machinery including lathe, mill, and CNC. (See pictures)
+
+First I used SolidWorks to modeling every piece of the air motor. Some reverse engineering and tolerance engineering took place considering what pin, set screws, and fasteners I had to work with/ordered. After modeling, I creating an exploded view animation (*1), and a motion study (*2) animation of the motor running using SolidWorks motors feature to display movement.  
+
+Next, I created and toleranced drawings for each part of the motor to ASME Y14.5 standards and complied them into technical specifications for manufacturing (*3), a legally binding inspection basis. Following the engineering drawings, I manufactured numerous materials including aluminum, steel, and brass with a variety of machinery including lathe, mill, and CNC. (See pictures)
+
 Post manufacturing, I assembled and lubricated the air motor (see picture) using basic tools, and tested it up to 3600RPM. 
 
 
@@ -25,3 +27,7 @@ https://github.com/user-attachments/assets/472b7c76-11a8-4e1a-85e0-d578cf563869
 <img width="3024" height="4032" alt="IMG_5392" src="https://github.com/user-attachments/assets/b244d700-d9ec-493c-b364-f277d745ee35" />
 <img width="3024" height="4032" alt="IMG_5388" src="https://github.com/user-attachments/assets/fe054dbd-132f-46d2-a64e-88497c2a5115" />
 <img width="4032" height="3024" alt="IMG_4986" src="https://github.com/user-attachments/assets/eabb54d5-3acb-403f-9af2-3cf73dfa6895" />
+<img width="3024" height="4032" alt="IMG_1232" src="https://github.com/user-attachments/assets/7750712f-7305-43ee-9eaf-1bca28f17595" />
+<img width="3024" height="4032" alt="IMG_1230" src="https://github.com/user-attachments/assets/5ffdfd11-baa7-4db2-b6f6-75e69417a297" />
+<img width="3024" height="4032" alt="IMG_1229" src="https://github.com/user-attachments/assets/e6a1288a-73d7-460a-a352-88b509ea76c7" />
+
