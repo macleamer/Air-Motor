@@ -4,9 +4,13 @@ Modeled, machined, assembled, and tested an air motor up to 3600 rpm.
 
 First I used SolidWorks to modeling every piece of the air motor. Some reverse engineering and tolerance engineering took place considering what pin, set screws, and fasteners I had to work with/ordered. After modeling, I creating an exploded view animation (*1), and a motion study (*2) animation of the motor running using SolidWorks motors feature to display movement.  
 
-Next, I created and toleranced drawings for each part of the motor to ASME Y14.5 standards and complied them into technical specifications for manufacturing (*3), a legally binding inspection basis. Following the engineering drawings, I manufactured numerous materials including aluminum, steel, and brass with a variety of machinery including lathe, mill, and CNC. (See pictures)
+Next, I created and toleranced drawings for each part of the motor to ASME Y14.5 standards and complied them into technical specifications for manufacturing (linked), a legally binding inspection basis. Following the engineering drawings, I manufactured numerous materials including aluminum, steel, and brass with a variety of machinery including lathe, mill, and CNC. (See pictures)
 
 Post manufacturing, I assembled and lubricated the air motor (see picture) using basic tools, and tested it up to 3600RPM. 
+
+Engineering Drawing for Manufacturing (Engineering Drawings):
+[Air Motor + Leamer.pdf](https://github.com/user-attachments/files/33698550/Air.Motor.%2B.Leamer.pdf)
+
 
 
 *1 Exploded View Animation (Virtual Assembly of Air Motor)
@@ -17,8 +21,7 @@ https://github.com/user-attachments/assets/bec64ae4-4b2b-493a-b167-d2db97e01911
 
 https://github.com/user-attachments/assets/472b7c76-11a8-4e1a-85e0-d578cf563869
 
-*3 Technical Specification for Manufacturing (Engineering Drawings)
-[Air Motor + Leamer.pdf](https://github.com/user-attachments/files/33698550/Air.Motor.%2B.Leamer.pdf)
+
 
 
 
