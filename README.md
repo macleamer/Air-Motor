@@ -8,7 +8,7 @@ Next, I created and toleranced drawings for each part of the motor to ASME Y14.5
 
 Post manufacturing, I assembled and lubricated the air motor (see picture) using basic tools, and tested it up to 3600RPM. 
 
-Engineering Drawing for Manufacturing (Engineering Drawings):
+**Engineering Drawing for Manufacturing (Engineering Drawings):**
 [Air Motor + Leamer.pdf](https://github.com/user-attachments/files/33698550/Air.Motor.%2B.Leamer.pdf)
 
 
